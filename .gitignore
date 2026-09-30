@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# raw downloads are big and only needed to re-run scripts/prepare_data.py
+raw_data/
